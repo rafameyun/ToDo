@@ -2,9 +2,9 @@
 ToDo app made to train the CRUD and JS.
 
 Inspired in Florin Pop on Youtube, here his social networks.
-Twitter: @florinpop1705
-Youtube: youtube.com/florinpop
-Twitch: twitch.tv/florinpop17
+Twitter: @florinpop1705, 
+Youtube: youtube.com/florinpop, 
+Twitch: twitch.tv/florinpop17, 
 
 # 1 - Make de HTML structure.
 
